@@ -1,0 +1,8 @@
+---
+title: "Map Reduce"
+author: "Aaron Palumbo"
+date: "9/6/2015"
+output: pdf_document
+---
+
+From Mining Massive Datasets

@@ -3,6 +3,13 @@ title: "Map Reduce"
 author: "Aaron Palumbo"
 date: "9/6/2015"
 output: pdf_document
+toc: true
 ---
 
-From Mining Massive Datasets
+From Mining Massive Datasets:  
+## 2.3.1
+
+```{r}
+
+```
+
